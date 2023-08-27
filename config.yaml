@@ -17,7 +17,7 @@ settings:
 monitors:
   - id: pandaptable.moe # unique identifier
     name: pandaptable.moe
-    description: '' # default=empty
+    description: 'My website' # default=empty
     url: 'https://pandaptable.moe/version' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
